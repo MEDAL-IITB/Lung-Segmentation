@@ -1,5 +1,4 @@
 ﻿># Global Convolutional Network
-<!-->by [Sarthak Consul](https://github.com/SConsul)-->
 *   [Introduction](#introduction)
 *   [Dataset](#dataset)
     *   [Montgomery Dataset](#montgomery-dataset)
